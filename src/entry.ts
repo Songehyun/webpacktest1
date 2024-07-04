@@ -1,4 +1,4 @@
 import a from './add';
 import mul from './b';
 
-a();
+console.log(mul(a(1, 2), 10));
